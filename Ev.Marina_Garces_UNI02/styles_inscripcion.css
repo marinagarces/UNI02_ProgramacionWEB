@@ -1,0 +1,10 @@
+body {
+    font-family: 'Borel', cursive;
+}
+
+/*Color de Fondo de la barra de navegación*/  
+.container-fluid {
+    background-color: #73C6B6;
+    padding-top: 17px;
+    padding-bottom: 5px;
+}

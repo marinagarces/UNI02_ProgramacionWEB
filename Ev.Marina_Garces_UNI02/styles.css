@@ -1,0 +1,29 @@
+body {
+    font-family: 'Borel', cursive;
+}
+
+/*Color de Fondo de la barra de navegación*/  
+.container-fluid {
+    background-color: #73C6B6;
+    padding-top: 17px;
+    padding-bottom: 5px;
+}
+
+/*Estilos del Article (descripción de la página)*/ 
+article {
+    font-size: 18px; /* Tamaño de fuente */
+    line-height: 1.5; /* Espacio entre líneas */
+    color: #6b0a6e; /* Color de la fuente */
+    background-color: #f9f9f9; /* Color de fondo del artículo */
+    padding: 20px 50px; /* 20px de padding en la parte superior e inferior, y 50px en los lados */
+    border-radius: 15px; /* Esquinas redondeadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra alrededor del artículo para darle un efecto elevado */
+  
+}
+/*Estilos del carousel*/ 
+#carouselExampleDark{
+   width: 1450px;
+   height: auto; 
+
+}
+
